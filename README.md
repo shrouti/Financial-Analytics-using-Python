@@ -1,2 +1,1 @@
-# Financial-Analytics-using-Python
-Financial Analytics using Python
+# financial_analytics_python
